@@ -7,12 +7,12 @@ APIs are a key element in my work, and I find building libraries with them both 
 JavaScript / TypeScript /
 React / Next.js /
 Tailwind CSS / Bootstrap /
-GitHub / Git / Netlify /
+GitHub / Git / Netlify 
 <h3>Lets Connect</h3>
 
 <h2 align="left">Links:</h2>
-<a href="https://www.linkedin.com/in/evan-breidecker-917211265/">LinkedIn</a>
-<a href="mailto:evanbreidecker@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/evan-breidecker-917211265/">LinkedIn</a> |
+<a href="mailto:evanbreidecker@gmail.com">Email</a> |
 <a href="https://evanbreidecker.netlify.app/">Portfolio</a>
 
-Feel free to reach out! 🚀
+<h3>Feel free to reach out! 🚀</h3>
