@@ -10,7 +10,7 @@ GitHub / Git / Netlify
 Let’s Connect!
 
 <h3 align="left">Links:</h3>
-LinkedIn
+<a href="https://www.linkedin.com/in/evan-breidecker-917211265/">LinkedIn</a>
 Twitter
 Portfolio
 Feel free to reach out! 🚀
