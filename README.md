@@ -12,7 +12,7 @@ GitHub / Git / Netlify
 
 <h2 align="left">Links:</h2>
 <a href="https://www.linkedin.com/in/evan-breidecker-917211265/">LinkedIn</a> |
-<a href="mailto:evanbreidecker@gmail.com">Email</a> |
+<a href="mailto:breideckerevan@gmail.com">Email</a> |
 <a href="https://evanbreidecker.netlify.app/">Portfolio</a>
 
 <h3>Feel free to reach out! 🚀</h3>
